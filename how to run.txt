@@ -1,0 +1,5 @@
+cmd /c "cd /d C:\Users\KIIT0001\Documents\studymaterial\hybrid_forecast\hybrid_forecast && C:\hfenv\Scripts\python.exe -m streamlit run app.py"
+
+
+for venv and installation
+cmd /c "cd /d C:\Users\KIIT0001\Documents\studymaterial\hybrid_forecast\hybrid_forecast && (if exist venv rmdir /s /q venv) && python -m venv C:\hfenv && C:\hfenv\Scripts\python.exe -m pip install --upgrade pip && C:\hfenv\Scripts\python.exe -m pip install -r requirements.txt && C:\hfenv\Scripts\python.exe -m streamlit run app.py"

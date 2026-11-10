@@ -1,0 +1,9 @@
+path,test inputs,WAPE,WAPE_std
+Path B (joint),all inputs,0.18092943708946896,
+Path B (joint),text hidden,0.20492567580798335,
+Path B (joint),images hidden,0.18120994896417636,
+Path B (joint),text and images hidden,0.20518531691905104,
+Path A (staged),all inputs,0.1835317937840841,
+Path A (staged),text hidden,0.19964952552816917,
+Path A (staged),images hidden,0.1841518172807595,
+Path A (staged),text and images hidden,0.1999614842319592,
